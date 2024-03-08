@@ -265,7 +265,7 @@ header .navbar a:hover{
 .about{
   background: rgb(36,141,39);
   background: radial-gradient(circle, rgba(36,141,39,1) 50%, rgba(5,102,8,1) 80%);
-  background: url(images/bg-2.png) no-repeat;
+  background: url(images/bg-2.webp) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
