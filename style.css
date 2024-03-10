@@ -288,29 +288,7 @@ margin-bottom: 3rem;
     transform: scale(0.9);
   }
 
-  .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 50%;
-    height: 50%;
-    color: white;
-    font-size: 24px;
-    background-color: rgba(0, 0, 0, 0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-weight: bold;
 
-
-  }
-
-  .video-container:hover .overlay {
-    opacity: 1;
-    background-color: green 50%;
-  }
 
   .overlay-text {
     z-index: 1;
